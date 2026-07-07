@@ -25,4 +25,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/sanyamsood85/DSA_using_java/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sanyamsood85/DSA_using_java/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/sanyamsood85/DSA_using_java/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sanyamsood85/DSA_using_java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
