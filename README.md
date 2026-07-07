@@ -19,8 +19,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyamsood85/DSA_using_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanyamsood85/DSA_using_java/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/sanyamsood85/DSA_using_java/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sanyamsood85/DSA_using_java/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sanyamsood85/DSA_using_java/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
