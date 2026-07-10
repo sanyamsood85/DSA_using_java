@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyamsood85/DSA_using_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanyamsood85/DSA_using_java/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/sanyamsood85/DSA_using_java/tree/master/0344-reverse-string) |
+| [3794-reverse-string-prefix](https://github.com/sanyamsood85/DSA_using_java/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/sanyamsood85/DSA_using_java/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/sanyamsood85/DSA_using_java/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/sanyamsood85/DSA_using_java/tree/master/0796-rotate-string) |
+| [3794-reverse-string-prefix](https://github.com/sanyamsood85/DSA_using_java/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
