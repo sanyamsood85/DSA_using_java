@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanyamsood85/DSA_using_java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyamsood85/DSA_using_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanyamsood85/DSA_using_java/tree/master/0027-remove-element) |
+| [0877-stone-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanyamsood85/DSA_using_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sanyamsood85/DSA_using_java/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sanyamsood85/DSA_using_java/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -52,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
