@@ -74,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sanyamsood85/DSA_using_java/tree/master/0326-power-of-three) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sanyamsood85/DSA_using_java/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sanyamsood85/DSA_using_java/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sanyamsood85/DSA_using_java/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
