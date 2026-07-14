@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanyamsood85/DSA_using_java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sanyamsood85/DSA_using_java/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sanyamsood85/DSA_using_java/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sanyamsood85/DSA_using_java/tree/master/0520-detect-capital) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sanyamsood85/DSA_using_java/tree/master/0933-number-of-recent-calls) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sanyamsood85/DSA_using_java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
