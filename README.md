@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sanyamsood85/DSA_using_java/tree/master/0027-remove-element) |
 | [0877-stone-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanyamsood85/DSA_using_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sanyamsood85/DSA_using_java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sanyamsood85/DSA_using_java/tree/master/0258-add-digits) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sanyamsood85/DSA_using_java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sanyamsood85/DSA_using_java/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sanyamsood85/DSA_using_java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
