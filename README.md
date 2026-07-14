@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sanyamsood85/DSA_using_java/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/sanyamsood85/DSA_using_java/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/1025-divisor-game) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/1025-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sanyamsood85/DSA_using_java/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sanyamsood85/DSA_using_java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
