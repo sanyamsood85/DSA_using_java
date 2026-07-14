@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sanyamsood85/DSA_using_java/tree/master/0009-palindrome-number) |
 | [1025-divisor-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/1025-divisor-game) |
+| [2769-find-the-maximum-achievable-number](https://github.com/sanyamsood85/DSA_using_java/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
