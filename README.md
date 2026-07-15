@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyamsood85/DSA_using_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanyamsood85/DSA_using_java/tree/master/0027-remove-element) |
 | [0877-stone-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0877-stone-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/sanyamsood85/DSA_using_java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanyamsood85/DSA_using_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sanyamsood85/DSA_using_java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sanyamsood85/DSA_using_java/tree/master/0258-add-digits) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/sanyamsood85/DSA_using_java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sanyamsood85/DSA_using_java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sanyamsood85/DSA_using_java/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/sanyamsood85/DSA_using_java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sanyamsood85/DSA_using_java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanyamsood85/DSA_using_java/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/sanyamsood85/DSA_using_java/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
