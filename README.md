@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyamsood85/DSA_using_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanyamsood85/DSA_using_java/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/sanyamsood85/DSA_using_java/tree/master/0344-reverse-string) |
+| [2396-strictly-palindromic-number](https://github.com/sanyamsood85/DSA_using_java/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/sanyamsood85/DSA_using_java/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sanyamsood85/DSA_using_java/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/sanyamsood85/DSA_using_java/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sanyamsood85/DSA_using_java/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/sanyamsood85/DSA_using_java/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/sanyamsood85/DSA_using_java/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
